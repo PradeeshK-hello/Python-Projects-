@@ -1,0 +1,10 @@
+name="Pradeesh"
+age=12
+weight=54.8
+student=True
+print(type(name))
+print(type(age))
+print(type(weight))
+print(type(student))
+age=float(age)
+print(age)
